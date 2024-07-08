@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Black Sunshine Rider
+localizedName: Sus-C
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -9,7 +9,7 @@ mesh: {
   # A number used for mesh generation.
   seed: 69
   # Mesh "quality". More divisions = more hexagons.
-  divisions: 4
+  divisions: 7
   # First color to be used.
   color1: a2a2c2
   # Second color to be used.
@@ -17,11 +17,11 @@ mesh: {
   # Mesh radius.
   radius: 0.8
   # A noise property.
-  octaves: 3
+  octaves: 6
   # A noise property.
   persistence: 0.8
   # Noise scale.
-  scale: 1
+  scale: 7
   # A noise property.
   mag: 1.5
 }
@@ -91,9 +91,9 @@ hasAtmosphere: false
 # Icon's name displayed in top-left dialog.
 icon: commandRally
 # The parent of the planet.
-parent: black-hole-sun
+parent: 1-0-themelight
 # The parent of the whole solar system the planet is in. Affects lighting.
-solarSystem: black-hole-sun
+solarSystem: 1-0-themelight
 # Items not available in this planet. Commented out because itemWhitelist is used instead as seen below.
 #hiddenItems: [
 #  graphite, plastanium, phase-fabric
