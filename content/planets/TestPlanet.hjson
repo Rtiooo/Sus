@@ -1,8 +1,9 @@
 generator: SerpuloPlanetGenerator       //Генератор планеты (Если не создаёте свой генератор, тогда не меняйте название)
-localizedName: "TestPlanet"       //Название планеты
-parent: sun
-iconColor: ff9421       //Цвет иконки
-orbitRadius: 1000       //Радиус орбиты
+localizedName: "Sus-C"       //Название планеты
+parent: 1-0-themelight
+solarSystem: 1-0-themelight
+iconColor: 2bff14       //Цвет иконки
+orbitRadius: 36       //Радиус орбиты
 hasAtmosphere: true       //Есть ли атмосфера?
 updateLighting: false
 atmosphereRadIn: 0.02
@@ -41,8 +42,8 @@ mesh: {
     type: NoiseMesh
     planet: TestPlanet
     seed: 562697
-    color1: d47420
-    color2: b85804
+    color1: 0098ff
+    color2: 2bff14
     divisions: 5
     radius: 0.9
     octaves: 7
@@ -75,4 +76,5 @@ hiddenItems: [
     "carbide"
     "fissile-matter"
     "dormant-cyst"
+    "m"
 ]
