@@ -9,3 +9,7 @@ If you want, then I can help make not only the planet, but also the sectors to i
 
 [![Stars](https://img.shields.io/github/stars/Lehanchic25/TestPlanetMindustry?color=7289da&label=⭐️%20Please%20Star%20This%20Tutorial%21)](https://github.com/Lehanchic25/TestPlanetMindustry)
 [![Download](https://img.shields.io/github/v/release/Lehanchic25/TestPlanetMindustry?color=6aa84f&include_prereleases&label=Latest%20version&logo=github&logoColor=white&)](https://github.com/Lehanchic25/TestPlanetMindustry/releases)[![Total Downloads](https://img.shields.io/github/downloads/Lehanchic25/TestPlanetMindustry/total?color=7289da&label&logo=docusign&logoColor=white)](https://github.com/Lehanchic25/TestPlanetMindustry/releases)
+
+### Indonesian
+Halo, repositori ini adalah file sumber dari video tutorial di Youtube. Semua kode sumber untuk planet uji akan ditempatkan di sini.
+Jika Anda mau, maka saya dapat membantu tidak hanya membuat planet ini, tetapi juga
